@@ -3,7 +3,7 @@
 ############################################################################
 # Store Jamf LAPS app config as ONE Keychain item in the logged-in user's
 # login Keychain.
-#
+# Author:Deepak Gandhi
 # Parameter 4: Jamf Pro URL
 # Parameter 5: OAuth Client ID
 # Parameter 6: OAuth Client Secret
