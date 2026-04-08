@@ -26,6 +26,8 @@ LDAP / Active Directory integration
 REST APIs
 
 
+
+
 🚀 Getting Started
 Prerequisites
 macOS 13+
@@ -56,3 +58,7 @@ Do not commit sensitive data to this repository
 
 Deepak Gandhi
 GitHub: https://github.com/DeepakGandhi24
+
+## License
+
+This project is for internal use only. All rights reserved.
