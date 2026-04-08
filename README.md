@@ -61,4 +61,6 @@ GitHub: https://github.com/DeepakGandhi24
 
 ## License
 
-This project is for internal use only. All rights reserved.
+## License
+
+This project is licensed under the MIT License.
